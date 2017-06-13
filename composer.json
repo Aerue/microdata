@@ -2,7 +2,7 @@
     "name": "maisondunet/microdata",
     "autoload": {
         "psr-4" : {
-            "Maisondunet\\Microdata\\" : "src/Maisondunet/Microdata/"
+            "Maisondunet\\Microdata\\" : "src"
         }
     }
 }
