@@ -1,0 +1,22 @@
+{
+    "name": "maisondunet/microdata",
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "maisondunet/microdata",
+                "version": "dev-master",
+                "source": {
+                    "url": "git@gitlab.web-74.com:maisondunet/microdata.git",
+                    "type": "git",
+                    "reference": "master"
+                },
+                "autoload": {
+                    "psr-4" : {
+                        "Maisondunet\\Microdata" : "src"
+                    }
+                }
+            }
+        }
+    ]
+}
